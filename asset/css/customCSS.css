@@ -1,0 +1,27 @@
+.heading{
+	text-align: center;
+	background-color: green;
+	color:white;
+	padding:15px;
+	box-shadow: 5px 5px 2px #888888;
+}
+.or{
+	text-align: center;
+	margin-top:50%;
+}
+
+@media only screen and (max-width: 992px){
+	.or{
+	text-align: center;
+	margin-top:4%;
+	}
+
+}
+input[type]{
+	box-shadow: 2px 2px 1px #888888;
+}
+.flashMsg{
+    text-align: center;
+    margin-top:20px;
+    background-color:green;
+}
